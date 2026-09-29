@@ -1,0 +1,6 @@
+rdflib>=7.0.0
+# HTTP
+requests>=2.31.0
+
+langchain-core
+langchain-community
